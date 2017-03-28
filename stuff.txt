@@ -1,0 +1,1 @@
+key.repeat(text.length/key.length)+key.substr(0,text.length%key.length)
